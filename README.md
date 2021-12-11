@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on different projects related to Machine Learning & other Coding Projects
+- 🌱 I’m currently learning how to be a better human
+- 👯 I’m looking to collaborate on anything that would make the world a better place
+- 🤔 I’m looking for help if you find any flaw in any of my repos 
+- 💬 Ask me about anything
+- 📫 How to reach me: alizahidrjaa@gmail.com
+
