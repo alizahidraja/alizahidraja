@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alizahidraja&margin-w=30" alt="MuhammaadSaad" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alizahidraja&label=Profile%20views&color=0e75b6&style=flat" alt="alizahidraja" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alizahidraja&label=Profile%20views&color=0e75b6&style=flat" alt="alizahidraja" /> </p>
 
-<p align="left"> <a href="https://twitter.com/alizahidraja" target="blank"><img src="https://img.shields.io/twitter/follow/alizahidraja?logo=twitter&style=for-the-badge" alt="@ali" /></a> </p>
+<p align="center"> <a href="https://twitter.com/alizahidraja" target="blank"><img src="https://img.shields.io/twitter/follow/alizahidraja?logo=twitter&style=for-the-badge" alt="@ali" /></a> </p>
 
 
 
@@ -38,14 +38,14 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/@alizahidraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alizahidraja" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alizahidraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alizahidraja" height="30" width="40" /></a>
 <a href="https://kaggle.com/alizahidraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alizahidraja" height="30" width="40" /></a>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
@@ -56,8 +56,8 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="left">Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alizahidraja&show_icons=true&locale=en&layout=compact" alt="alizahidraja" /></p>
+<h3 align="center">Stats:</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alizahidraja&show_icons=true&locale=en&layout=compact" alt="alizahidraja" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alizahidraja&show_icons=true&locale=en" alt="alizahidraja" /></p>
