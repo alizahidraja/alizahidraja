@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ali Zahid Raja</h1>
+<h1 align="center">Hey! 👋, I'm Ali Zahid Raja</h1>
 <h3 align="center">A Machine Learning Engineer</h3>
 
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alizahidraja&margin-w=30&theme=onedark" alt="MuhammaadSaad" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alizahidraja&margin-w=30" alt="MuhammaadSaad" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alizahidraja&label=Profile%20views&color=0e75b6&style=flat" alt="alizahidraja" /> </p>
 
