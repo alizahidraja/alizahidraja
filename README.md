@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MuhammaadSaad" alt="MuhammaadSaad" /></a> </p>
+<p align="left"> <a href="https://twitter.com/saadsiddiquePak" target="blank"><img src="https://img.shields.io/twitter/follow/saadsiddiquePak?logo=twitter&style=for-the-badge" alt="@ali" /></a> </p>
+
+
+
+
 - 🔭 I’m currently working on different projects related to Machine Learning & other Coding Projects
 - 🌱 I’m currently learning how to be a better human
 - 👯 I’m looking to collaborate on anything that would make the world a better place
