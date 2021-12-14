@@ -56,7 +56,9 @@ Here are some ideas to get you started:
  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
 
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alizahidraja&show_icons=true&locale=en&layout=compact" alt="alizahidraja" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alizahidraja&show_icons=true&locale=en" alt="alizahidraja" /></p>
 
