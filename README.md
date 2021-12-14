@@ -31,5 +31,15 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything that would make the world a better place
 - 🤔 I’m looking for help if you find any flaw in any of my repos 
 - 💬 Ask me about anything
-- 📫 How to reach me: alizahidrjaa@gmail.com
+- 📫 How to reach me: [Twitter](https://twitter.com/AliZahidRaja)
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alizahidraja&show_icons=true&locale=en&layout=compact" alt="alizahidraja" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alizahidraja&show_icons=true&locale=en" alt="alizahidraja" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alizahidraja&" alt="alizahidraja" /></p>
+
 
