@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-https://github-profile-trophy.vercel.app/?username=alizahidraja&margin-w=15&theme=onedark
+https://github-profile-trophy.vercel.app/?username=alizahidraja&theme=onedark
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alizahidraja&label=Profile%20views&color=0e75b6&style=flat" alt="alizahidraja" /> </p>
 
