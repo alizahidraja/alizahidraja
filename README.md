@@ -1,4 +1,7 @@
-### Hi there 👋
+
+<h1 align="center">Hi 👋, I'm Ali Zahid Raja</h1>
+<h3 align="center">A Machine Learning Engineer</h3>
+
 
 <!--
 **alizahidraja/alizahidraja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
