@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything that would make the world a better place
 - 🤔 I’m looking for help if you find any flaw in any of my repos 
 - 💬 Ask me about anything
-- 📫 How to reach me: [click here!](https://twitter.com/AliZahidRaja{:target="_blank"})
+- 📫 How to reach me: [click here!](https://twitter.com/AliZahidRaja)
 
 
 
