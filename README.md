@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 <p align="center"> <a href="https://twitter.com/alizahidraja" target="blank"><img src="https://img.shields.io/twitter/follow/alizahidraja?logo=twitter&style=for-the-badge" alt="@ali" /></a> </p>
 
 
-Ranked [35 on Advent of Code 2021](https://adventofcode.com/2021/leaderboard/day/18)
-
-
+- ⚡ [Ranked 35th on Advent of Code 2021](https://adventofcode.com/2021/leaderboard/day/18)
 - 🔭 I’m currently working on different projects related to Machine Learning & other Coding Projects
 - 🌱 I’m currently learning how to be a better human
 - 👯 I’m looking to collaborate on anything that would make the world a better place
