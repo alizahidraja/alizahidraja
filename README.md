@@ -33,11 +33,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything that would make the world a better place
 - 🤔 I’m looking for help if you find any flaw in any of my repos 
 - 💬 Ask me about anything
-- 📫 How to reach me: [click here!](https://twitter.com/AliZahidRaja)
+- 📫 How to reach me: [click here!](https://alizahidraja.com/)
 
 
-<p align="center">
- [Website](https://alizahidraja.com/)
 <h3 align="center">Connect with me:</h3>
 <p align="center">
  <a href="https://kaggle.com/alizahidraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alizahidraja" height="30" width="40" /></a>
