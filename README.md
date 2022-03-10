@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [click here!](https://twitter.com/AliZahidRaja)
 
 
-
-
+<p align="center">
+ [Website](https://alizahidraja.com/)
 <h3 align="center">Connect with me:</h3>
 <p align="center">
  <a href="https://kaggle.com/alizahidraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alizahidraja" height="30" width="40" /></a>
