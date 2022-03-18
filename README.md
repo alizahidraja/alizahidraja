@@ -69,8 +69,10 @@ Here are some ideas to get you started:
 
 
 ## Music Playing 🎵
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=26gongzo3to295r2c15y0f7u3&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=26gongzo3to295r2c15y0f7u3&redirect=true)
+<p align="center">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=26gongzo3to295r2c15y0f7u3&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=26gongzo3to295r2c15y0f7u3&redirect=true"><img src="https://nduongthucanh.vercel.app/api/top-played">
+</p>
 
 
 ---
