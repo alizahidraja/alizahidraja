@@ -55,6 +55,9 @@ Here are some ideas to get you started:
  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
 </p>
 
+## Metrics 📈
+
+![Metrics](https://metrics.lecoq.io/alizahidraja?template=classic&languages=1&isocalendar=1&achievements=1&activity=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&repositories.featured=alizahidraja%2Fself-quantified-data-analysis%2C%20alizahidraja%2F8-Week-SQL-Challenge%2C%20alizahidraja%2Fnorthwind-company-analysis%2C%20alizahidraja%2Fdvd-rental-marketing-analytics%2C%alizahidraja%2Fcurrency-converter%2C%20alizahidraja%2FData_Explorer_Web_App&config.twemoji=true&config.display=large)
 
 <h3 align="center">Stats:</h3>
 <p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alizahidraja&show_icons=true&locale=en&layout=compact" alt="alizahidraja" /></p>
