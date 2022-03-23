@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey! 👋, I'm Ali Zahid Raja</h1>
-<h3 align="center">A Machine Learning Engineer</h3>
+<h3 align="center">AI, Data & ML Engineer | AOC 2021 Top 1% | Entrepreneur | Open Source Contributor | Mentor</h3>
 
 
 <!--
