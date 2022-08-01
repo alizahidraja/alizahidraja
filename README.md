@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - ⚡ 1st in Pakistan & Top 1% in the whole world among 200,000+ contestants in Advent of Code 2021
 - ⚡ [Ranked 35th on global leaderboard on day 18 of Advent of Code 2021](https://adventofcode.com/2021/leaderboard/day/18)
-- 🔭 I’m currently working on Web3 & IBC with this [Awesome Team](https://www.polymerlabs.org/meet-our-team){:target="_blank" rel="noopener"}
+- 🔭 I’m currently working on Web3 & IBC with this [Awesome Team](https://www.polymerlabs.org/meet-our-team)
 - 🌱 I’m currently learning how to be a better human
 - 👯 I’m looking to collaborate on anything that would make the world a better place
 - 🤔 I’m looking for help if you find any critique, improvement or flaw in any of my repos 
