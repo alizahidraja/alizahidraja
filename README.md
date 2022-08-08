@@ -1,6 +1,6 @@
 
-<h1 align="center">Hey! 👋, I'm Ali Zahid Raja</h1>
-<h3 align="center">AI, Data & ML Engineer | Diving into Web3 | AOC 2021 Top 1% | Entrepreneur | Open Source Contributor | Mentor</h3>
+<h1 align="center">Hey! 👋<br> I'm Ali Zahid Raja</h1>
+<h3 align="center">Diving into Web3 & IBC | AI, Data & ML Engineer | AOC 2021 Top 1% | Entrepreneur | Open Source Contributor | Mentor</h3>
 
 
 <!--
