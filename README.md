@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything that would make the world a better place
 - 🤔 I’m looking for help if you find any critique, improvement or flaw in any of my repos 
 - 💬 Ask me about anything, happy to help!
-- 📫 How to reach me: [click here!](https://twitter.com/alizahidraja)
+- 📫 How to reach me: [click here!](https://alizahidraja.com)
 
 
 <h3 align="center">Connect with me:</h3>
