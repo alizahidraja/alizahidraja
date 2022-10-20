@@ -1,4 +1,4 @@
-![Hi](githubreadme.gif)
+![Hi](githubreadme-fast.gif)
 
 <h1 align="center"></h1>
 <h3 align="center">Diving into Web3 & IBC | AI, Data & ML Engineer | AOC 2021 Top 1% | Entrepreneur | Open Source Contributor | Mentor</h3>
