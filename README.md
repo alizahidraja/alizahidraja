@@ -1,4 +1,6 @@
-<h1 align="center">![Hi](githubreadme-fast.gif)</h1>
+<h1 align="center">
+  <img src="https://github.com/alizahidraja/alizahidraja/blob/main/githubreadme-fast.gif?raw=true">
+</h1>
 <h3 align="center">Diving into Web3 & IBC | AI, Data & ML Engineer | AOC 2021 Top 1% | Entrepreneur | Open Source Contributor | Mentor</h3>
 
 
