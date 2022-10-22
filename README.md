@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/alizahidraja" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+  <a href="https://www.buymeacoffee.com/alizahidraja" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "100px" width= "300px" ></a>
 </p>
 
 ## View more repositories 👇
