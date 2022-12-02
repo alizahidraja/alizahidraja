@@ -1,7 +1,7 @@
 <h1 align="center">
   <img width="600" height="194" src="https://github.com/alizahidraja/alizahidraja/blob/main/githubreadme-fast.gif?raw=true">
 </h1>
-<h3 align="center">Creator | Developer | Entrepreneur | AOC 2021 Top 1% | Open Source Contributor | Mentor</h3>
+<h3 align="center">Creator | Developer | Entrepreneur | AOC 2021 Top 0.1% | Open Source Contributor | Mentor</h3>
 
 
 <!--
