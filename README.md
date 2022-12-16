@@ -34,20 +34,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [click here!](https://alizahidraja.com)
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
- <a href="https://twitter.com/@alizahidraja" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-1024.png" alt="alizahidraja" height="30" width="40" /></a>
-  
- <a href="https://linkedin.com/in/alizahidraja" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" alt="alizahidraja" height="30" width="40" /></a>
- 
-  <a href="https://instagram.com/alizahidrajaa" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-1024.png" alt="alizahidraja" height="30" width="40" /></a>
-  
-  <a href="https://youtube.com/@alizahidraja" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-1024.png" alt="alizahidraja" height="30" width="40" /></a>
-  
-  <a href="https://facebook.com/alizahidrajaaa" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-1024.png" alt="alizahidraja" height="30" width="40" /></a>
-  
-  <a href="https://buymeacoffee.com/alizahidraja" target="blank"><img align="center" src="https://cdn.dribbble.com/users/3349322/screenshots/14039201/media/1d43324ff4b1a3850533fdbb823b8b59.png" alt="alizahidraja" height="30" width="40" /></a>
- 
-  <a href="https://kaggle.com/alizahidraja" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" alt="alizahidraja" height="30" width="40" /></a>
+
+- [🔥 Personal Website](https://alizahidraja.com/)
+- [🐦 Twitter](https://twitter.com/alizahidraja)
+- [💼 LinkedIn](https://www.linkedin.com/in/alizahidraja/)
+- [🙋🏻 Instagram](https://www.instagram.com/alizahidrajaa/)
+- [📹 YouTube](https://www.youtube.com/@alizahidraja)
+- [💁🏼 Facebook](https://www.facebook.com/alizahidrajaaa)
+- [🧑🏻‍💻 Upwork](https://www.upwork.com/freelancers/~0155d21287ff8a3421)
+- [🧑🏻‍💻 Fiverr](https://www.fiverr.com/alizahidraja)
+- [📈 Kaggle](https://www.kaggle.com/alizahidraja)
+- [🧋 Buymeacoffee](https://www.buymeacoffee.com/alizahidraja)
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p  align="center">
