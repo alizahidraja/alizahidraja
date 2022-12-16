@@ -1,8 +1,7 @@
 <h1 align="center">
   <img width="600" height="194" src="https://github.com/alizahidraja/alizahidraja/blob/main/githubreadme-fast.gif?raw=true">
 </h1>
-<h3 align="center">Creator | Developer | Entrepreneur | AOC 2021 Top 0.1% | Open Source Contributor | Mentor</h3>
-
+<h3 align="center">Creator | Developer | Entrepreneur | Mentor | AOC 2021 Top 0.1% | Kaggle Expert Top 1% | Open Source Contributor</h3>
 
 <!--
 **alizahidraja/alizahidraja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,35 +18,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alizahidraja&margin-w=30" alt="AliZahidRaja" /></a> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alizahidraja&label=Profile%20views&color=0e75b6&style=flat" alt="alizahidraja" /> </p>
 
 <p align="center"> <a href="https://twitter.com/alizahidraja" target="blank"><img src="https://img.shields.io/twitter/follow/alizahidraja?logo=twitter&style=for-the-badge" alt="@ali" /></a> </p>
 
-
-- ⚡ 1st in Pakistan & Top 0.1% in the whole world among 200,000+ contestants in Advent of Code 2021
+- ⚡ 1st in Pakistan & Top 0.1% in the whole world among 400,000+ contestants in Advent of Code 2021
 - ⚡ [Ranked 35th on the Global Leaderboard on Day 18 of Advent of Code 2021](https://adventofcode.com/2021/leaderboard/day/18)
 - 🔭 I’m currently working on Web3 & ML projects
 - 🌱 I’m currently learning how to be a better human
 - 👯 I’m looking to collaborate on anything that would make the world a better place
-- 🤔 I’m looking for help if you find any critique, improvement or flaw in any of my repos 
+- 🤔 I’m looking for help if you find any critique, improvement or flaw in any of my repos
 - 💬 Ask me about anything, happy to help!
 - 📫 How to reach me: [click here!](https://alizahidraja.com)
 
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
- <a href="https://twitter.com/@alizahidraja" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" alt="alizahidraja" height="30" width="40" /></a>
- <a href="https://linkedin.com/in/alizahidraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alizahidraja" height="30" width="40" /></a>
-<a href="https://instagram.com/alizahidrajaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alizahidraja" height="30" width="40" /></a>
-  <a href="https://youtube.com/@alizahidraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alizahidraja" height="30" width="40" /></a>
-  <a href="https://facebook.com/alizahidrajaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alizahidraja" height="30" width="40" /></a>
-  <a href="https://buymeacoffee.com/alizahidraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alizahidraja" height="30" width="40" /></a>
- <a href="https://kaggle.com/alizahidraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alizahidraja" height="30" width="40" /></a>
-
-
+ <a href="https://twitter.com/@alizahidraja" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-1024.png" alt="alizahidraja" height="30" width="40" /></a>
+  
+ <a href="https://linkedin.com/in/alizahidraja" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" alt="alizahidraja" height="30" width="40" /></a>
+ 
+  <a href="https://instagram.com/alizahidrajaa" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-1024.png" alt="alizahidraja" height="30" width="40" /></a>
+  
+  <a href="https://youtube.com/@alizahidraja" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-1024.png" alt="alizahidraja" height="30" width="40" /></a>
+  
+  <a href="https://facebook.com/alizahidrajaaa" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-1024.png" alt="alizahidraja" height="30" width="40" /></a>
+  
+  <a href="https://buymeacoffee.com/alizahidraja" target="blank"><img align="center" src="https://cdn.dribbble.com/users/3349322/screenshots/14039201/media/1d43324ff4b1a3850533fdbb823b8b59.png" alt="alizahidraja" height="30" width="40" /></a>
+ 
+  <a href="https://kaggle.com/alizahidraja" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" alt="alizahidraja" height="30" width="40" /></a>
 
 <h3 align="center">Languages and Tools:</h3>
 <p  align="center">
@@ -67,13 +67,12 @@ Here are some ideas to get you started:
 <h3 align="center">Stats:</h3>
 <p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alizahidraja&show_icons=true&locale=en&layout=compact" alt="alizahidraja" /></p>
 
-
 <p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alizahidraja&show_icons=true&locale=en" alt="alizahidraja" /></p>
 
 <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alizahidraja&" alt="alizahidraja" /></p>
 
-
 ## Music Playing 🎵
+
 <p align="center">
     <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=26gongzo3to295r2c15y0f7u3&cover_image=true&theme=default&bar_color=b11b1b&bar_color_cover=true">
