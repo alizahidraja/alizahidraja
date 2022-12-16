@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 - [🔥 Personal Website](https://alizahidraja.com/)
 - [🐦 Twitter](https://twitter.com/alizahidraja)
-- [💼 LinkedIn](https://www.linkedin.com/in/alizahidraja/)
+- [🚀 LinkedIn](https://www.linkedin.com/in/alizahidraja/)
 - [🙋🏻 Instagram](https://www.instagram.com/alizahidrajaa/)
 - [📹 YouTube](https://www.youtube.com/@alizahidraja)
 - [💁🏼 Facebook](https://www.facebook.com/alizahidrajaaa)
