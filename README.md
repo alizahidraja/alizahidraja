@@ -39,9 +39,13 @@ Here are some ideas to get you started:
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
- <a href="https://kaggle.com/alizahidraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alizahidraja" height="30" width="40" /></a>
+ <a href="https://twitter.com/@alizahidraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alizahidraja" height="30" width="40" /></a>
  <a href="https://linkedin.com/in/alizahidraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alizahidraja" height="30" width="40" /></a>
-<a href="https://twitter.com/@alizahidraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alizahidraja" height="30" width="40" /></a>
+<a href="https://instagram.com/alizahidrajaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alizahidraja" height="30" width="40" /></a>
+  <a href="https://youtube.com/@alizahidraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alizahidraja" height="30" width="40" /></a>
+  <a href="https://facebook.com/alizahidrajaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alizahidraja" height="30" width="40" /></a>
+  <a href="https://buymeacoffee.com/alizahidraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alizahidraja" height="30" width="40" /></a>
+ <a href="https://kaggle.com/alizahidraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alizahidraja" height="30" width="40" /></a>
 
 
 
