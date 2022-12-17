@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 <p align="center"> <a href="https://twitter.com/alizahidraja" target="blank"><img src="https://img.shields.io/twitter/follow/alizahidraja?logo=twitter&style=for-the-badge" alt="@ali" /></a> </p>
 
 - ⚡ 1st in Pakistan & Top 0.1% in the whole world among 400,000+ contestants in Advent of Code 2021
-- ⚡ [Ranked 35th on the Global Leaderboard on Day 18 of Advent of Code 2021](https://adventofcode.com/2021/leaderboard/day/18)
+- ⚡ Ranking in Global Leaderboards in Advent of Codes:
+- - [35th on Day 18 Advent of Code 2021](https://adventofcode.com/2021/leaderboard/day/18)
+- - [32nd on Day 17 Advent of Code 2022](https://adventofcode.com/2022/leaderboard/day/17)
 - 🔭 I’m currently working on Web3 & ML projects
 - 🌱 I’m currently learning how to be a better human
 - 👯 I’m looking to collaborate on anything that would make the world a better place
