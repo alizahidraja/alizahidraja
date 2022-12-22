@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alizahidraja&margin-w=30" alt="AliZahidRaja" /></a> </p>
 
-<p align="center"> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alizahidraja/dataset/light" alt="Kaggle/AliZahidRaja"/> </p>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alizahidraja&label=Profile%20views&color=0e75b6&style=flat" alt="alizahidraja" /> </p>
 
 <p align="center"> <a href="https://twitter.com/alizahidraja" target="blank"><img src="https://img.shields.io/twitter/follow/alizahidraja?logo=twitter&style=for-the-badge" alt="@ali" /></a> </p>
@@ -51,6 +49,8 @@ Here are some ideas to get you started:
 - [📈 Kaggle](https://www.kaggle.com/alizahidraja)
 - [🧋 Buymeacoffee](https://www.buymeacoffee.com/alizahidraja)
 
+
+<p align="center"> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alizahidraja/dataset/light" alt="Kaggle/AliZahidRaja"/> </p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p  align="center">
