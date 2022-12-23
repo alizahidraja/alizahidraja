@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 - ⚡ 1st in Pakistan & Top 0.1% in the whole world among 400,000+ contestants in Advent of Code 2021
 - ⚡ Ranking in Global Leaderboards in Advent of Codes:
-- - [35th on Day 18 Advent of Code 2021](https://adventofcode.com/2021/leaderboard/day/18)
-- - [32nd on Day 17 Advent of Code 2022](https://adventofcode.com/2022/leaderboard/day/17)
-- - [39th on Day 19 Advent of Code 2022](https://adventofcode.com/2022/leaderboard/day/19)
-- - [98th on Day 23 Advent of Code 2022](https://adventofcode.com/2022/leaderboard/day/23)
+  - [35th on Day 18 Advent of Code 2021](https://adventofcode.com/2021/leaderboard/day/18)
+  - [32nd on Day 17 Advent of Code 2022](https://adventofcode.com/2022/leaderboard/day/17)
+  - [39th on Day 19 Advent of Code 2022](https://adventofcode.com/2022/leaderboard/day/19)
+  - [98th on Day 23 Advent of Code 2022](https://adventofcode.com/2022/leaderboard/day/23)
 - 🔭 I’m currently working on Web3 & ML projects
 - 🌱 I’m currently learning how to be a better human
 - 👯 I’m looking to collaborate on anything that would make the world a better place
