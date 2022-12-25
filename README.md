@@ -1,7 +1,7 @@
 <h1 align="center">
   <img width="600" height="194" src="https://github.com/alizahidraja/alizahidraja/blob/main/githubreadme-fast.gif?raw=true">
 </h1>
-<h3 align="center">Creator | Developer | Entrepreneur | Mentor | AOC 2021 Top 0.1% | Kaggle Expert Top 1% | Open Source Contributor</h3>
+<h3 align="center">Creator | Developer | Entrepreneur | Mentor | 1st in Pakistan & Global Top 0.1% for AOC '21 & '22 | Kaggle Expert Global Top 1% | Open Source Contributor</h3>
 
 <!--
 **alizahidraja/alizahidraja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
