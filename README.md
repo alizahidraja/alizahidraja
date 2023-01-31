@@ -3,7 +3,14 @@
 </h1>
 <h2 align="center">Creator | Developer | Entrepreneur | Mentor | 1st in Pakistan & Global Top 0.1% for AOC '21 & '22 | Kaggle Expert Global Top 1% | Open Source Contributor</h2>
 
-<h2  align="center"><a src="https://medium.com/@alizahidraja/how-to-level-up-as-an-engineer-my-journey-and-tips-38aee30d3344" target="_blank">How to Level Up as an Engineer: My Journey and Tips</a></h2>
+<h2  align="center">
+  How to Level Up as an Engineer: My Journey and Tips
+  <br/>
+  https://medium.com/@alizahidraja/how-to-level-up-as-an-engineer-my-journey-and-tips-38aee30d3344
+</h2>
+ 
+
+
 
 <!--
 **alizahidraja/alizahidraja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
