@@ -1,7 +1,7 @@
 <h1 align="center">
   <img width="600" height="194" src="https://github.com/alizahidraja/alizahidraja/blob/main/githubreadme-fast.gif?raw=true">
 </h1>
-<h2 align="center">Founder | CTO | AI, Data & ML Engineer | Creator | Developer | Entrepreneur | Mentor | 1st in Pakistan & Global Top 0.1% for AOC '21 & '22 | Kaggle Expert Global Top 1% | Open Source Contributor</h2>
+<h2 align="center">AI Alchemist 🪄 Crafting custom solutions for a brighter tomorrow | Top 1% Worldwide @ Topmate, Kaggle & AOC</h2>
 
 <h2  align="center">
   How to Level Up as an Engineer: My Journey and Tips
